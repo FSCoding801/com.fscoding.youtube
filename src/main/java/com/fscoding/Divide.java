@@ -11,6 +11,7 @@ public class Divide {
 			count++;
 		}
 		
+		
 
 		System.out.println("Result is =:"+count);
 	}
